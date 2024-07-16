@@ -1,11 +1,9 @@
 &nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjayesh&label=Profile%20views&color=0e75b6&style=flat" alt="jayjayesh" /> </p>
-
 <h1 align="left">Hi, I'm Jayesh Lathiya</h1> 
 <h3 align="left">Flutter Developer from India</h3>
 
-### I'm an Freelancer on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/)
+#### I'm an Freelancer on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/) 
 
 
 <p <h3 align="left">Connect with me on</h3> 
@@ -14,19 +12,25 @@
 
 &nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjayesh" alt="jayjayesh" /></a> </p>
+### 🏆 GitHub Trophies 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjayesh&theme=onedark" alt="jayjayesh" /></a> </p>
+
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayjayesh&" alt="jayjayesh" /></p>
 
-&nbsp;
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jayjayesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayjayesh&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayjayesh&show_icons=true&locale=en" alt="jayjayesh" /></p>
 
-&nbsp;
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayjayesh&show_icons=true&locale=en&layout=compact" alt="jayjayesh" /></p>
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjayesh&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="jayjayesh" /> </p>
 
 &nbsp;
 &nbsp;
