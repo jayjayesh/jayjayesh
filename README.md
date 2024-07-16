@@ -3,13 +3,13 @@
 
 <h1 align="left">Hi, I'm Jayesh Lathiya</h1> 
 <h3 align="left">A passionate Mobile app developer (Flutter Developer) from India</h3>
-## I'm an Freelancer & Seller on [Upwork](https://www.upwork.com/freelancers/jayeshlathiya), [Fiverr](https://www.fiverr.com/jayeshlathiya/)
+## I'm an Freelancer & Seller on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/)
 
 &nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-lathiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-lathiya/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayesh-lathiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-lathiya/" height="30" width="40" /></a>
 </p>
 
 &nbsp;
