@@ -1,14 +1,14 @@
 &nbsp;
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjayesh&label=Profile%20views&color=0e75b6&style=flat" alt="jayjayesh" /> </p>
 
 <h1 align="left">Hi, I'm Jayesh Lathiya</h1> 
-<h3 align="left">A passionate Mobile app developer (Flutter Developer) from India</h3>
-<h3 ## I'm an Freelancer & Seller on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/)</h3>
+<h3 align="left">Flutter Developer from India</h3>
 
-&nbsp;
+### I'm an Freelancer on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/)
 
-<p align="left"> <h3 align="left">Connect with me:</h3> </p>
-<p align="left">
+
+<p <h3 align="left">Connect with me on</h3> 
 <a href="https://www.linkedin.com/in/jayesh-lathiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-lathiya/" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayjayesh&show_icons=true&locale=en&layout=compact" alt="jayjayesh" /></p>
 
+&nbsp;
+&nbsp;
 &nbsp;
