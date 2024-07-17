@@ -5,6 +5,8 @@
 
 #### I'm an Freelancer on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/) 
 
+#### Download my [Resume](https://drive.google.com/file/d/1Ysak9Rkg_tKIpyRH8ZRrpXkWe0txfMIp/view?usp=sharing)
+
 
 <p <h3 align="left">Connect with me on</h3> 
 <a href="https://www.linkedin.com/in/jayesh-lathiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-lathiya/" height="30" width="40" /></a>
