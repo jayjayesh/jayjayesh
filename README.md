@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Jayesh Lathiya</h1> 
 <h3 align="left">I'm a Flutter developer from india</h3>
-<h3 align="left">Mobile Application development, Android & iOS, Web Application development</h3>
+<h3 align="left">Mobile Application development, Android, iOS, Web Application development</h3>
 
 #### Download my [Resume](https://drive.google.com/file/d/1Ysak9Rkg_tKIpyRH8ZRrpXkWe0txfMIp/view?usp=sharing)
 
