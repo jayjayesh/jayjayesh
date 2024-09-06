@@ -4,8 +4,6 @@
 <h3 align="left">I'm a Flutter developer from india</h3>
 <h3 align="left">Mobile Application development, Android & iOS, Web Application development</h3>
 
-#### I'm an Freelancer on [Upwork](https://www.upwork.com/freelancers/~01eea2dd754df9be15?mp_source=share), [Fiverr](https://www.fiverr.com/jayeshlathiya/) 
-
 #### Download my [Resume](https://drive.google.com/file/d/1Ysak9Rkg_tKIpyRH8ZRrpXkWe0txfMIp/view?usp=sharing)
 
 
